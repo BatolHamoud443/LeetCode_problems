@@ -23,7 +23,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 108    |  Convert Sorted Array to Binary Search Tree  | 
 | 111    |  Minimum Depth of Binary Tree                | 
 | 112    |  Path Sum                                    | 
-|--------|----------------------------------------------|
+
 
 ### 🟡Medium
 
@@ -38,7 +38,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 12     | Integer to Roman                                  | 
 | 15     | 3Sum                                              | 
 | 16     | 3Sum Closest                                      | 
-|--------|---------------------------------------------------|
+
 
 ### 🔴Hard
 
@@ -47,7 +47,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 4      | Median of Two Sorted Arrays                       |
 | 214    | Shortest Palindrome                               | 
 | 3068   | Find the Maximum Sum of Node Values               | 
-|--------|---------------------------------------------------|
+
 
 ---
 
