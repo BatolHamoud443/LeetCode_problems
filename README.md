@@ -42,6 +42,15 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 12     | Integer to Roman                                  | 
 | 15     | 3Sum                                              | 
 | 16     | 3Sum Closest                                      | 
+| 17     | Letter Combinations of a Phone Number |
+| 19     | Remove Nth Node From End of List |
+| 24     | Swap Nodes in Pairs |
+| 36     | Valid Sudoku |
+| 38     | Count and Say |
+| 39     | Combination Sum |
+
+
+
 
 
 ### 🔴Hard
