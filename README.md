@@ -23,6 +23,10 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 108    |  Convert Sorted Array to Binary Search Tree  | 
 | 111    |  Minimum Depth of Binary Tree                | 
 | 112    |  Path Sum                                    | 
+| 121    |  Best Time to Buy and Sell Stock             |
+| 136    |  Single Number                               |
+| 141    |  inked List Cycle            |
+| 203    |  Remove Linked List Elements            |
 
 
 ### 🟡Medium
