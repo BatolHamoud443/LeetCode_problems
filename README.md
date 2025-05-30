@@ -27,6 +27,10 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 136    |  Single Number                               |
 | 141    |  inked List Cycle            |
 | 203    |  Remove Linked List Elements            |
+| 206    |  Reverse Linked List           |
+| 219    |  Contains Duplicate II            |
+| 225    |  Implement Stack using Queues            |
+| 226    |  Invert Binary Tree            |
 
 
 ### 🟡Medium
@@ -48,6 +52,10 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 36     | Valid Sudoku |
 | 38     | Count and Say |
 | 39     | Combination Sum |
+| 73     | Set Matrix Zeroes |
+| 75     | Sort Colors |
+| 77     | Combinations |
+| 78     | Subsets |
 
 
 
