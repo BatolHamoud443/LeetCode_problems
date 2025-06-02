@@ -31,6 +31,13 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 219    |  Contains Duplicate II            |
 | 225    |  Implement Stack using Queues            |
 | 226    |  Invert Binary Tree            |
+|234| Palindrome Linked List|
+|268| Missing Number|
+|303| Range Sum Query - Immutable|
+|338| Counting Bits|
+|448| Find All Numbers Disappeared in an Array|
+
+
 
 
 ### 🟡Medium
