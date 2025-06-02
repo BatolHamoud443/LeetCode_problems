@@ -56,6 +56,11 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 75     | Sort Colors |
 | 77     | Combinations |
 | 78     | Subsets |
+|80 | Remove Duplicates from Sorted Array II|
+|92 | Reverse Linked List II|
+|102 | Binary Tree Level Order Traversal|
+|150 | Evaluate Reverse Polish Notation|
+|155 | Min Stack|
 
 
 
@@ -66,6 +71,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | #      | Title                                             |
 |--------|---------------------------------------------------|
 | 4      | Median of Two Sorted Arrays                       |
+| 135    | Candy                       |
 | 214    | Shortest Palindrome                               | 
 | 3068   | Find the Maximum Sum of Node Values               | 
 
