@@ -28,6 +28,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 141    |  inked List Cycle            |
 | 203    |  Remove Linked List Elements            |
 | 206    |  Reverse Linked List           |
+|217| Contains Duplicate|
 | 219    |  Contains Duplicate II            |
 | 225    |  Implement Stack using Queues            |
 | 226    |  Invert Binary Tree            |
@@ -54,6 +55,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 15     | 3Sum                                              | 
 | 16     | 3Sum Closest                                      | 
 | 17     | Letter Combinations of a Phone Number |
+|18| 4Sum|
 | 19     | Remove Nth Node From End of List |
 | 24     | Swap Nodes in Pairs |
 | 36     | Valid Sudoku |
@@ -68,6 +70,9 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |102 | Binary Tree Level Order Traversal|
 |150 | Evaluate Reverse Polish Notation|
 |155 | Min Stack|
+|209| Minimum Size Subarray Sum|
+|236| Lowest Common Ancestor of a Binary Tree|
+|322| Coin Change|
 
 
 
@@ -80,6 +85,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 4      | Median of Two Sorted Arrays                       |
 | 135    | Candy                       |
 | 214    | Shortest Palindrome                               | 
+|1298| Maximum Candies You Can Get from Boxes|
 | 3068   | Find the Maximum Sum of Node Values               | 
 
 
