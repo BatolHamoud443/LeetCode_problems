@@ -15,7 +15,8 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 20     |  Valid Parentheses                           | 
 | 21     |  Merge Two Sorted Lists                      | 
 | 26     |  Remove Duplicates from Sorted Array         | 
-| 27     |  Remove Element                              | 
+| 27     |  Remove Element                              |
+|28| Find the Index of the First Occurrence in a String|
 | 58     |  Length of Last Word                         | 
 | 70     |  Climbing Stairs                             | 
 | 100    |  Same Tree                                   | 
@@ -37,8 +38,10 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |303| Range Sum Query - Immutable|
 |338| Counting Bits|
 |448| Find All Numbers Disappeared in an Array|
-
-
+|876| Middle of the Linked List|
+|977| Squares of a Sorted Array|
+|1108| Defanging an IP Address|
+|1128| Number of Equivalent Domino Pairs|
 
 
 ### 🟡Medium
@@ -58,6 +61,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |18| 4Sum|
 | 19     | Remove Nth Node From End of List |
 | 24     | Swap Nodes in Pairs |
+|34| Find First and Last Position of Element in Sorted Array|
 | 36     | Valid Sudoku |
 | 38     | Count and Say |
 | 39     | Combination Sum |
@@ -73,6 +77,10 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |209| Minimum Size Subarray Sum|
 |236| Lowest Common Ancestor of a Binary Tree|
 |322| Coin Change|
+|701| Insert into a Binary Search Tree|
+|769| Max Chunks To Make Sorted|
+|784| Letter Case Permutation|
+|3403| Find the Lexicographically Largest String From the Box I|
 
 
 
