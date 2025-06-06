@@ -61,6 +61,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |18| 4Sum|
 | 19     | Remove Nth Node From End of List |
 | 24     | Swap Nodes in Pairs |
+|31 | Next Permutation| 
 |34| Find First and Last Position of Element in Sorted Array|
 | 36     | Valid Sudoku |
 | 38     | Count and Say |
@@ -80,6 +81,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |701| Insert into a Binary Search Tree|
 |769| Max Chunks To Make Sorted|
 |784| Letter Case Permutation|
+|2434| Using a Robot to Print the Lexicographically Smallest String|
 |3403| Find the Lexicographically Largest String From the Box I|
 
 
