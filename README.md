@@ -42,6 +42,8 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |977| Squares of a Sorted Array|
 |1108| Defanging an IP Address|
 |1128| Number of Equivalent Domino Pairs|
+|3110| Score of a String|
+|3442| Maximum Difference Between Even and Odd Frequency I|
 
 
 ### 🟡Medium
@@ -62,6 +64,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 19     | Remove Nth Node From End of List |
 | 24     | Swap Nodes in Pairs |
 |31 | Next Permutation| 
+|33| Search in Rotated Sorted Array|
 |34| Find First and Last Position of Element in Sorted Array|
 | 36     | Valid Sudoku |
 | 38     | Count and Say |
@@ -78,9 +81,12 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |209| Minimum Size Subarray Sum|
 |236| Lowest Common Ancestor of a Binary Tree|
 |322| Coin Change|
+|386| Lexicographical Numbers|
 |701| Insert into a Binary Search Tree|
 |769| Max Chunks To Make Sorted|
 |784| Letter Case Permutation|
+|1061| Lexicographically Smallest Equivalent String|
+|2433| Find The Original Array of Prefix Xor|
 |2434| Using a Robot to Print the Lexicographically Smallest String|
 |3403| Find the Lexicographically Largest String From the Box I|
 
