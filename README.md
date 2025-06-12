@@ -43,6 +43,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |1108| Defanging an IP Address|
 |1128| Number of Equivalent Domino Pairs|
 |3110| Score of a String|
+|3423| Maximum Difference Between Adjacent Elements in a Circular Array|
 |3442| Maximum Difference Between Even and Odd Frequency I|
 
 
@@ -69,6 +70,9 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 36     | Valid Sudoku |
 | 38     | Count and Say |
 | 39     | Combination Sum |
+|46| Permutations|
+|47| Permutations II|
+|48| Rotate Image|
 | 73     | Set Matrix Zeroes |
 | 75     | Sort Colors |
 | 77     | Combinations |
