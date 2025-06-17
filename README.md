@@ -35,6 +35,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 226    |  Invert Binary Tree            |
 |234| Palindrome Linked List|
 |268| Missing Number|
+|278|First Bad Version|
 |303| Range Sum Query - Immutable|
 |338| Counting Bits|
 |448| Find All Numbers Disappeared in an Array|
@@ -42,6 +43,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |977| Squares of a Sorted Array|
 |1108| Defanging an IP Address|
 |1128| Number of Equivalent Domino Pairs|
+|2016| Maximum Difference Between Increasing Elements|
 |3110| Score of a String|
 |3423| Maximum Difference Between Adjacent Elements in a Circular Array|
 |3442| Maximum Difference Between Even and Odd Frequency I|
@@ -73,6 +75,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |46| Permutations|
 |47| Permutations II|
 |48| Rotate Image|
+|64| Minimum Path Sum|
 | 73     | Set Matrix Zeroes |
 | 75     | Sort Colors |
 | 77     | Combinations |
@@ -89,9 +92,11 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |701| Insert into a Binary Search Tree|
 |769| Max Chunks To Make Sorted|
 |784| Letter Case Permutation|
+|1038| Binary Search Tree to Greater Sum Tree|
 |1061| Lexicographically Smallest Equivalent String|
 |2433| Find The Original Array of Prefix Xor|
 |2434| Using a Robot to Print the Lexicographically Smallest String|
+|2616|Minimize the Maximum Difference of Pairs|
 |3403| Find the Lexicographically Largest String From the Box I|
 
 
@@ -107,6 +112,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 214    | Shortest Palindrome                               | 
 |1298| Maximum Candies You Can Get from Boxes|
 | 3068   | Find the Maximum Sum of Node Values               | 
+|3405| Count the Number of Arrays with K Matching Adjacent Elements|
 
 
 ---
