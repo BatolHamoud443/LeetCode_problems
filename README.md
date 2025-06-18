@@ -17,6 +17,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 26     |  Remove Duplicates from Sorted Array         | 
 | 27     |  Remove Element                              |
 |28| Find the Index of the First Occurrence in a String|
+|35| Search Insert Position|
 | 58     |  Length of Last Word                         | 
 | 70     |  Climbing Stairs                             | 
 | 100    |  Same Tree                                   | 
@@ -43,6 +44,9 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |977| Squares of a Sorted Array|
 |1108| Defanging an IP Address|
 |1128| Number of Equivalent Domino Pairs|
+|1200| Minimum Absolute Difference|
+|1266| Minimum Time Visiting All Points|
+|1295| Find Numbers with Even Number of Digits|
 |2016| Maximum Difference Between Increasing Elements|
 |3110| Score of a String|
 |3423| Maximum Difference Between Adjacent Elements in a Circular Array|
@@ -92,11 +96,16 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |701| Insert into a Binary Search Tree|
 |769| Max Chunks To Make Sorted|
 |784| Letter Case Permutation|
+|790| Domino and Tromino Tiling|
+|845| Longest Mountain in Array|
+|916| Word Subsets|
+|1007| Minimum Domino Rotations For Equal Row|
 |1038| Binary Search Tree to Greater Sum Tree|
 |1061| Lexicographically Smallest Equivalent String|
 |2433| Find The Original Array of Prefix Xor|
 |2434| Using a Robot to Print the Lexicographically Smallest String|
 |2616|Minimize the Maximum Difference of Pairs|
+|2966| Divide Array Into Arrays With Max Difference|
 |3403| Find the Lexicographically Largest String From the Box I|
 
 
@@ -108,6 +117,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | #      | Title                                             |
 |--------|---------------------------------------------------|
 | 4      | Median of Two Sorted Arrays                       |
+|42| Trapping Rain Water|
 | 135    | Candy                       |
 | 214    | Shortest Palindrome                               | 
 |1298| Maximum Candies You Can Get from Boxes|
