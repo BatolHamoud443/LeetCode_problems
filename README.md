@@ -80,6 +80,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |47| Permutations II|
 |48| Rotate Image|
 |64| Minimum Path Sum|
+|66| Plus One|
 | 73     | Set Matrix Zeroes |
 | 75     | Sort Colors |
 | 77     | Combinations |
@@ -101,6 +102,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |916| Word Subsets|
 |1007| Minimum Domino Rotations For Equal Row|
 |1038| Binary Search Tree to Greater Sum Tree|
+|2294| Partition Array Such That Maximum Difference Is K|
 |1061| Lexicographically Smallest Equivalent String|
 |2433| Find The Original Array of Prefix Xor|
 |2434| Using a Robot to Print the Lexicographically Smallest String|
@@ -118,6 +120,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |--------|---------------------------------------------------|
 | 4      | Median of Two Sorted Arrays                       |
 |42| Trapping Rain Water|
+|51| N-Queens|
 | 135    | Candy                       |
 | 214    | Shortest Palindrome                               | 
 |1298| Maximum Candies You Can Get from Boxes|
