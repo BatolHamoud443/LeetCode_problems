@@ -19,6 +19,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |28| Find the Index of the First Occurrence in a String|
 |35| Search Insert Position|
 | 58     |  Length of Last Word                         | 
+|67| Add Binary|
 | 70     |  Climbing Stairs                             | 
 | 100    |  Same Tree                                   | 
 | 104    |  Maximum Depth of Binary Tree                | 
@@ -79,6 +80,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |46| Permutations|
 |47| Permutations II|
 |48| Rotate Image|
+|62| Unique Paths|
 |64| Minimum Path Sum|
 |66| Plus One|
 | 73     | Set Matrix Zeroes |
@@ -124,6 +126,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 135    | Candy                       |
 | 214    | Shortest Palindrome                               | 
 |1298| Maximum Candies You Can Get from Boxes|
+|2081| Sum of k-Mirror Numbers|
 | 3068   | Find the Maximum Sum of Node Values               | 
 |3405| Count the Number of Arrays with K Matching Adjacent Elements|
 
