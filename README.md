@@ -49,6 +49,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |1266| Minimum Time Visiting All Points|
 |1295| Find Numbers with Even Number of Digits|
 |2016| Maximum Difference Between Increasing Elements|
+|2200| Find All K-Distant Indices in an Array|
 |3110| Score of a String|
 |3423| Maximum Difference Between Adjacent Elements in a Circular Array|
 |3442| Maximum Difference Between Even and Odd Frequency I|
@@ -81,6 +82,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |47| Permutations II|
 |48| Rotate Image|
 |62| Unique Paths|
+|63| Unique Paths II|
 |64| Minimum Path Sum|
 |66| Plus One|
 | 73     | Set Matrix Zeroes |
