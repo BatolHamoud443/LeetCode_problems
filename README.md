@@ -20,6 +20,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |35| Search Insert Position|
 | 58     |  Length of Last Word                         | 
 |67| Add Binary|
+|69| Sqrt(x)|
 | 70     |  Climbing Stairs                             | 
 | 100    |  Same Tree                                   | 
 | 104    |  Maximum Depth of Binary Tree                | 
@@ -81,6 +82,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |46| Permutations|
 |47| Permutations II|
 |48| Rotate Image|
+|49| Group Anagrams|
 |62| Unique Paths|
 |63| Unique Paths II|
 |64| Minimum Path Sum|
@@ -89,6 +91,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 75     | Sort Colors |
 | 77     | Combinations |
 | 78     | Subsets |
+|79| Word Search|
 |80 | Remove Duplicates from Sorted Array II|
 |92 | Reverse Linked List II|
 |102 | Binary Tree Level Order Traversal|
@@ -129,6 +132,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 214    | Shortest Palindrome                               | 
 |1298| Maximum Candies You Can Get from Boxes|
 |2081| Sum of k-Mirror Numbers|
+|2040| Kth Smallest Product of Two Sorted Arrays|
 | 3068   | Find the Maximum Sum of Node Values               | 
 |3405| Count the Number of Arrays with K Matching Adjacent Elements|
 
