@@ -22,6 +22,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |67| Add Binary|
 |69| Sqrt(x)|
 | 70     |  Climbing Stairs                             | 
+|83| Remove Duplicates from Sorted List|
 | 100    |  Same Tree                                   | 
 | 104    |  Maximum Depth of Binary Tree                | 
 | 108    |  Convert Sorted Array to Binary Search Tree  | 
@@ -110,6 +111,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |1007| Minimum Domino Rotations For Equal Row|
 |1038| Binary Search Tree to Greater Sum Tree|
 |2294| Partition Array Such That Maximum Difference Is K|
+|2311| Longest Binary Subsequence Less Than or Equal to K|
 |1061| Lexicographically Smallest Equivalent String|
 |2433| Find The Original Array of Prefix Xor|
 |2434| Using a Robot to Print the Lexicographically Smallest String|
@@ -130,6 +132,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |51| N-Queens|
 | 135    | Candy                       |
 | 214    | Shortest Palindrome                               | 
+|980| Unique Paths III|
 |1298| Maximum Candies You Can Get from Boxes|
 |2081| Sum of k-Mirror Numbers|
 |2040| Kth Smallest Product of Two Sorted Arrays|
