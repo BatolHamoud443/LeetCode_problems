@@ -43,6 +43,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |303| Range Sum Query - Immutable|
 |338| Counting Bits|
 |448| Find All Numbers Disappeared in an Array|
+|594| Longest Harmonious Subsequence|
 |876| Middle of the Linked List|
 |977| Squares of a Sorted Array|
 |1108| Defanging an IP Address|
@@ -80,6 +81,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 36     | Valid Sudoku |
 | 38     | Count and Say |
 | 39     | Combination Sum |
+|43| Multiply Strings|
 |46| Permutations|
 |47| Permutations II|
 |48| Rotate Image|
@@ -128,6 +130,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | #      | Title                                             |
 |--------|---------------------------------------------------|
 | 4      | Median of Two Sorted Arrays                       |
+|37| Sudoku Solver|
 |42| Trapping Rain Water|
 |51| N-Queens|
 | 135    | Candy                       |
