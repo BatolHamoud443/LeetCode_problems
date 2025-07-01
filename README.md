@@ -54,6 +54,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |2016| Maximum Difference Between Increasing Elements|
 |2200| Find All K-Distant Indices in an Array|
 |3110| Score of a String|
+|3330| Find the Original Typed String I|
 |3423| Maximum Difference Between Adjacent Elements in a Circular Array|
 |3442| Maximum Difference Between Even and Odd Frequency I|
 
@@ -102,6 +103,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |155 | Min Stack|
 |209| Minimum Size Subarray Sum|
 |236| Lowest Common Ancestor of a Binary Tree|
+|287| Find the Duplicate Number|
 |322| Coin Change|
 |386| Lexicographical Numbers|
 |701| Insert into a Binary Search Tree|
