@@ -23,6 +23,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |69| Sqrt(x)|
 | 70     |  Climbing Stairs                             | 
 |83| Remove Duplicates from Sorted List|
+|88| Merge Sorted Array|
 | 100    |  Same Tree                                   | 
 | 104    |  Maximum Depth of Binary Tree                | 
 | 108    |  Convert Sorted Array to Binary Search Tree  | 
@@ -91,6 +92,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |63| Unique Paths II|
 |64| Minimum Path Sum|
 |66| Plus One|
+|72| Edit Distance|
 | 73     | Set Matrix Zeroes |
 | 75     | Sort Colors |
 | 77     | Combinations |
