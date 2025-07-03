@@ -55,6 +55,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |2016| Maximum Difference Between Increasing Elements|
 |2200| Find All K-Distant Indices in an Array|
 |3110| Score of a String|
+|3304| Find the K-th Character in String Game I|
 |3330| Find the Original Typed String I|
 |3423| Maximum Difference Between Adjacent Elements in a Circular Array|
 |3442| Maximum Difference Between Even and Odd Frequency I|
@@ -88,6 +89,8 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |47| Permutations II|
 |48| Rotate Image|
 |49| Group Anagrams|
+|50| Pow(x, n)|
+|56| Merge Intervals|
 |62| Unique Paths|
 |63| Unique Paths II|
 |64| Minimum Path Sum|
@@ -99,6 +102,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 78     | Subsets |
 |79| Word Search|
 |80 | Remove Duplicates from Sorted Array II|
+|89| Gray Code|
 |92 | Reverse Linked List II|
 |102 | Binary Tree Level Order Traversal|
 |150 | Evaluate Reverse Polish Notation|
@@ -137,6 +141,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |37| Sudoku Solver|
 |42| Trapping Rain Water|
 |51| N-Queens|
+|52| N-Queens II|
 | 135    | Candy                       |
 | 214    | Shortest Palindrome                               | 
 |980| Unique Paths III|
