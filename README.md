@@ -24,6 +24,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 70     |  Climbing Stairs                             | 
 |83| Remove Duplicates from Sorted List|
 |88| Merge Sorted Array|
+|94| Binary Tree Inorder Traversal|
 | 100    |  Same Tree                                   | 
 | 104    |  Maximum Depth of Binary Tree                | 
 | 108    |  Convert Sorted Array to Binary Search Tree  | 
@@ -120,6 +121,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |916| Word Subsets|
 |1007| Minimum Domino Rotations For Equal Row|
 |1038| Binary Search Tree to Greater Sum Tree|
+|1353| Maximum Number of Events That Can Be Attended|
 |2294| Partition Array Such That Maximum Difference Is K|
 |2311| Longest Binary Subsequence Less Than or Equal to K|
 |1061| Lexicographically Smallest Equivalent String|
