@@ -26,6 +26,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |88| Merge Sorted Array|
 |94| Binary Tree Inorder Traversal|
 | 100    |  Same Tree                                   | 
+|101| Symmetric Tree|
 | 104    |  Maximum Depth of Binary Tree                | 
 | 108    |  Convert Sorted Array to Binary Search Tree  | 
 | 111    |  Minimum Depth of Binary Tree                | 
@@ -130,6 +131,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |2616|Minimize the Maximum Difference of Pairs|
 |2966| Divide Array Into Arrays With Max Difference|
 |3403| Find the Lexicographically Largest String From the Box I|
+|3439| Reschedule Meetings for Maximum Free Time I|
 
 
 
