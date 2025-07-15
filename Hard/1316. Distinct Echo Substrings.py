@@ -1,4 +1,10 @@
 class Solution:
-    def countGoodArrays(self, n: int, m: int, k: int) -> int:
-        mod = 10 ** 9 + 7
-        return m * pow(m - 1, n - k - 1, mod) * comb(n - 1, k) % mod
+    def distinctEchoSubstrings(self, text: str) -> int:
+        sub = set()
+        for i in range(len(text)):
+            for j in range(i+1, len(text)):
+                if text[i] == text[j]:
+                    m = j-i
+                    if text[i:i+m] == text[j:j+m]:        
+                        sub.add(text[i:i+m])
+        return len(sub)
