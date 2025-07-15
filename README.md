@@ -57,6 +57,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |2016| Maximum Difference Between Increasing Elements|
 |2200| Find All K-Distant Indices in an Array|
 |3110| Score of a String|
+|3136| Valid Word|
 |3304| Find the K-th Character in String Game I|
 |3330| Find the Original Typed String I|
 |3423| Maximum Difference Between Adjacent Elements in a Circular Array|
@@ -104,6 +105,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 78     | Subsets |
 |79| Word Search|
 |80 | Remove Duplicates from Sorted Array II|
+|86| Partition List|
 |89| Gray Code|
 |92 | Reverse Linked List II|
 |102 | Binary Tree Level Order Traversal|
@@ -150,6 +152,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 214    | Shortest Palindrome                               | 
 |980| Unique Paths III|
 |1298| Maximum Candies You Can Get from Boxes|
+|1316| Distinct Echo Substrings|
 |2081| Sum of k-Mirror Numbers|
 |2040| Kth Smallest Product of Two Sorted Arrays|
 | 3068   | Find the Maximum Sum of Node Values               | 
