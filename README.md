@@ -29,6 +29,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |101| Symmetric Tree|
 | 104    |  Maximum Depth of Binary Tree                | 
 | 108    |  Convert Sorted Array to Binary Search Tree  | 
+|110| Balanced Binary Tree|
 | 111    |  Minimum Depth of Binary Tree                | 
 | 112    |  Path Sum                                    | 
 | 121    |  Best Time to Buy and Sell Stock             |
@@ -132,6 +133,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |2434| Using a Robot to Print the Lexicographically Smallest String|
 |2616|Minimize the Maximum Difference of Pairs|
 |2966| Divide Array Into Arrays With Max Difference|
+|3201| Find the Maximum Length of Valid Subsequence I|
 |3403| Find the Lexicographically Largest String From the Box I|
 |3439| Reschedule Meetings for Maximum Free Time I|
 
@@ -148,6 +150,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |42| Trapping Rain Water|
 |51| N-Queens|
 |52| N-Queens II|
+|60| Permutation Sequence|
 | 135    | Candy                       |
 | 214    | Shortest Palindrome                               | 
 |980| Unique Paths III|
