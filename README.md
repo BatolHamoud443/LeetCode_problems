@@ -32,7 +32,10 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |110| Balanced Binary Tree|
 | 111    |  Minimum Depth of Binary Tree                | 
 | 112    |  Path Sum                                    | 
+|118| Pascal's Triangle|
+|119| Pascal's Triangle II|
 | 121    |  Best Time to Buy and Sell Stock             |
+|125| Valid Palindrome|
 | 136    |  Single Number                               |
 | 141    |  inked List Cycle            |
 | 203    |  Remove Linked List Elements            |
@@ -55,6 +58,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |1200| Minimum Absolute Difference|
 |1266| Minimum Time Visiting All Points|
 |1295| Find Numbers with Even Number of Digits|
+|1957| Delete Characters to Make Fancy String|
 |2016| Maximum Difference Between Increasing Elements|
 |2200| Find All K-Distant Indices in an Array|
 |3110| Score of a String|
@@ -89,11 +93,13 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 | 38     | Count and Say |
 | 39     | Combination Sum |
 |43| Multiply Strings|
+|45| Jump Game II|
 |46| Permutations|
 |47| Permutations II|
 |48| Rotate Image|
 |49| Group Anagrams|
 |50| Pow(x, n)|
+|55| Jump Game|
 |56| Merge Intervals|
 |62| Unique Paths|
 |63| Unique Paths II|
@@ -110,6 +116,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |89| Gray Code|
 |92 | Reverse Linked List II|
 |102 | Binary Tree Level Order Traversal|
+|114| Flatten Binary Tree to Linked List|
 |150 | Evaluate Reverse Polish Notation|
 |155 | Min Stack|
 |209| Minimum Size Subarray Sum|
@@ -126,6 +133,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |1007| Minimum Domino Rotations For Equal Row|
 |1038| Binary Search Tree to Greater Sum Tree|
 |1353| Maximum Number of Events That Can Be Attended|
+|1695| Maximum Erasure Value|
 |2294| Partition Array Such That Maximum Difference Is K|
 |2311| Longest Binary Subsequence Less Than or Equal to K|
 |1061| Lexicographically Smallest Equivalent String|
@@ -152,6 +160,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |52| N-Queens II|
 |60| Permutation Sequence|
 | 135    | Candy                       |
+|185| Department Top Three Salaries|
 | 214    | Shortest Palindrome                               | 
 |980| Unique Paths III|
 |1298| Maximum Candies You Can Get from Boxes|
