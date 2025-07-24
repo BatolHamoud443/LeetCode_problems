@@ -38,6 +38,8 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |125| Valid Palindrome|
 | 136    |  Single Number                               |
 | 141    |  inked List Cycle            |
+|144| Binary Tree Preorder Traversal|
+|145| Binary Tree Postorder Traversal|
 | 203    |  Remove Linked List Elements            |
 | 206    |  Reverse Linked List           |
 |217| Contains Duplicate|
@@ -132,6 +134,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |916| Word Subsets|
 |1007| Minimum Domino Rotations For Equal Row|
 |1038| Binary Search Tree to Greater Sum Tree|
+|1717| Maximum Score From Removing Substrings|
 |1353| Maximum Number of Events That Can Be Attended|
 |1695| Maximum Erasure Value|
 |2294| Partition Array Such That Maximum Difference Is K|
@@ -159,6 +162,7 @@ Welcome to my personal repository where I track and share solutions to LeetCode 
 |51| N-Queens|
 |52| N-Queens II|
 |60| Permutation Sequence|
+|68| Text Justification|
 | 135    | Candy                       |
 |185| Department Top Three Salaries|
 | 214    | Shortest Palindrome                               | 
